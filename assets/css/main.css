@@ -308,7 +308,7 @@ h4,
 h5,
 h6 {
 	color: #ffffff;
-	font-weight: bold;
+	
 	line-height: 1.5;
 	margin: 0 0 0.5em 0;
 }
@@ -376,7 +376,7 @@ h5 {
 }
 
 h6 {
-	font-size: 0.8em;
+	font-size: 0.6em;
 	text-align: center;
 }
 
